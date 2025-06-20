@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://braviambat.github.io/portofolio-bravi/sitemap.xml
