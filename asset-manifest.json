@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portofolio-brave/static/css/main.1d8736d9.css",
+    "main.js": "/portofolio-brave/static/js/main.e40f9224.js",
+    "index.html": "/portofolio-brave/index.html",
+    "main.1d8736d9.css.map": "/portofolio-brave/static/css/main.1d8736d9.css.map",
+    "main.e40f9224.js.map": "/portofolio-brave/static/js/main.e40f9224.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d8736d9.css",
+    "static/js/main.e40f9224.js"
+  ]
+}
