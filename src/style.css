@@ -1,0 +1,155 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+.main-header {
+  background-color: #5a67d8;
+  color: #fff;
+  padding: 1.5rem 1rem;
+  text-align: center;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 2rem;
+  letter-spacing: 1px;
+}
+
+.nav-bar {
+  margin-top: 1rem;
+}
+
+.nav-bar button {
+  background: none;
+  border: none;
+  color: #fff;
+  margin: 0 0.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 0.5rem 1rem;
+  transition: background 0.3s;
+}
+
+.nav-bar button:hover,
+.nav-bar .active {
+  background-color: #434190;
+  border-radius: 4px;
+}
+
+.hero-section {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding: 4rem 1rem;
+  background-color: #f4f4f4;
+}
+
+.hero-text {
+  flex: 1 1 300px;
+  max-width: 500px;
+  padding: 1rem;
+}
+
+.hero-text h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.hero-text p {
+  font-size: 1.2rem;
+  color: #555;
+}
+
+.hero-image {
+  flex: 1 1 300px;
+  max-width: 400px;
+  padding: 1rem;
+}
+
+.hero-image img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.section {
+  padding: 2rem 1rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.content-container {
+  padding: 1rem;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.section h2 {
+  color: #5a67d8;
+  margin-bottom: 1rem;
+}
+
+.skills li {
+  margin: 0.5rem 0;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card-img {
+  width: 100%;
+  display: block;
+}
+
+.card-content {
+  padding: 1rem;
+}
+
+.card-content h3 {
+  margin-top: 0;
+  color: #333;
+}
+
+.card-content p {
+  color: #666;
+}
+
+.kontak-info p {
+  margin: 0.5rem 0;
+}
+
+.footer {
+  background-color: #2d3748;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
+
+a {
+  color: #5a67d8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
