@@ -2,7 +2,7 @@
   "name": "portofolio-bravi",
   "version": "1.0.0",
   "description": "Portofolio Bravi Ambat - Sistem Informasi & Data Analyst",
-  "homepage": "https://braviambat.github.io/portofolio-brave",
+  "homepage": ".",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
